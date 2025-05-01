@@ -1,0 +1,33 @@
+body {
+  background-color: #fff3e0;
+  font-family: 'Tahoma', sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+nav {
+  background-color: #ef6c00;
+  padding: 15px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  margin-top: 40px;
+  color: #e65100;
+}
+
+video {
+  margin: 30px auto;
+  display: block;
+  width: 80%;
+  max-width: 600px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  border-radius: 10px;
+}
